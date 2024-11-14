@@ -48,8 +48,6 @@ Each metric is weighted ( \( w_1, w_2, ... w_6 \) ) to reflect its impact on the
 4. **Fun Score Calculation**: Use the Fun Equation to compute scores for each experience.
 5. **Benchmarking**: Compare scores to understand performance and make improvements.
 
----
-
 ## Installation
 Clone this repository to your local machine:
 
